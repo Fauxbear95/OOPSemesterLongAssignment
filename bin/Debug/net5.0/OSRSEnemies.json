@@ -1,0 +1,20 @@
+[
+  {
+    "Name": "Mountain Troll",
+    "DefenceLevel": 40,
+    "StabDefence": 0,
+    "SlashDefence": 0,
+    "CrushDefence": 10,
+    "MagicDefence": 200,
+    "RangedDefence": 200
+  },
+  {
+    "Name": "Ice Troll",
+    "DefenceLevel": 120,
+    "StabDefence": 30,
+    "SlashDefence": 60,
+    "CrushDefence": 30,
+    "MagicDefence": 0,
+    "RangedDefence": 0
+  }
+]
